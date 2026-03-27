@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD graduate from The Chinese University of Hong Kong, Shenzhen. My research foucs on 3d printing, soft sensor.
+I am a PhD graduate from The Chinese University of Hong Kong, Shenzhen, supervised by [Prof. Jian Zhu](https://scholar.google.com/citations?user=U0lt7MIAAAAJ&hl=en). My research interests lie in silicone 3D printing, soft sensing, and robotic systems.
 
 My research focuses on:
 - Silicone 3D printing and multimaterial fabrication
