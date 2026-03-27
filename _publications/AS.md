@@ -6,7 +6,7 @@ category: manuscripts
 excerpt: ''
 date: 2025-01-07
 venue: 'Advanced Science'
-authors: "Fei Xiao, Zhuoheng Wei, Zhipeng Xu, Hao Wang, Jisen Li, Jian Zhu*"
+citation: 'Fei Xiao, Zhuoheng Wei, Zhipeng Xu, Hao Wang, Jisen Li, Jian Zhu*'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
