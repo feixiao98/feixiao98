@@ -26,37 +26,37 @@ Research Highlights
       <div style="display: flex; align-items: center; justify-content: center; min-height: 210px; background: #ffffff; border: 1px solid #efefef; border-radius: 8px; padding: 0.75rem; margin-bottom: 0.75rem;">
         <img src="/images/research－highlight/print_sample.png" alt="Silicone 3D printing" style="max-width: 100%; max-height: 240px; width: auto; height: auto; display: block; border-radius: 4px;">
       </div>
-      <p style="margin: 0;"><strong>Silicone 3D Printing.</strong> Custom printing of silicone structures and devices.</p>
+      <p style="margin: 0;">Custom printing of silicone structures and devices.</p>
     </div>
     <div style="border: 1px solid #e3e3e3; border-radius: 10px; padding: 0.9rem; background: #fbfbfb;">
       <div style="display: flex; align-items: center; justify-content: center; min-height: 210px; background: #ffffff; border: 1px solid #efefef; border-radius: 8px; padding: 0.75rem; margin-bottom: 0.75rem;">
         <img src="/images/research－highlight/embedd_printing.png" alt="Embedded printing" style="max-width: 100%; max-height: 240px; width: auto; height: auto; display: block; border-radius: 4px;">
       </div>
-      <p style="margin: 0;"><strong>Embedded Printing.</strong> Embedded fabrication of complex silicone components.</p>
+      <p style="margin: 0;">Embedded 3d printing of penumatic acuator.</p>
     </div>
     <div style="border: 1px solid #e3e3e3; border-radius: 10px; padding: 0.9rem; background: #fbfbfb;">
       <div style="display: flex; align-items: center; justify-content: center; min-height: 210px; background: #ffffff; border: 1px solid #efefef; border-radius: 8px; padding: 0.75rem; margin-bottom: 0.75rem;">
         <img src="/images/research－highlight/shield_sensor.png" alt="Soft sensors" style="max-width: 100%; max-height: 240px; width: auto; height: auto; display: block; border-radius: 4px;">
       </div>
-      <p style="margin: 0;"><strong>Soft Sensors.</strong> Tactile and force sensing for wearable and robotic systems.</p>
+      <p style="margin: 0;">Soft faraday-cage force sensor.</p>
     </div>
     <div style="border: 1px solid #e3e3e3; border-radius: 10px; padding: 0.9rem; background: #fbfbfb;">
       <div style="display: flex; align-items: center; justify-content: center; min-height: 210px; background: #ffffff; border: 1px solid #efefef; border-radius: 8px; padding: 0.75rem; margin-bottom: 0.75rem;">
         <img src="/images/research－highlight/hand.png" alt="Soft robotic systems" style="max-width: 100%; max-height: 240px; width: auto; height: auto; display: block; border-radius: 4px;">
       </div>
-      <p style="margin: 0;"><strong>Soft Robotic Systems.</strong> Additively manufactured compliant robotic components.</p>
+      <p style="margin: 0;">Fully 3d printed soft hand.</p>
     </div>
     <div style="border: 1px solid #e3e3e3; border-radius: 10px; padding: 0.9rem; background: #fbfbfb;">
       <div style="display: flex; align-items: center; justify-content: center; min-height: 210px; background: #ffffff; border: 1px solid #efefef; border-radius: 8px; padding: 0.75rem; margin-bottom: 0.75rem;">
         <img src="/images/research－highlight/insole.png" alt="Wearable devices" style="max-width: 100%; max-height: 240px; width: auto; height: auto; display: block; border-radius: 4px;">
       </div>
-      <p style="margin: 0;"><strong>Wearable Devices.</strong> Intelligent insoles for real-time pressure monitoring.</p>
+      <p style="margin: 0;">Fully 3d printed insole with pressure sensor array.</p>
     </div>
     <div style="border: 1px solid #e3e3e3; border-radius: 10px; padding: 0.9rem; background: #fbfbfb;">
       <div style="display: flex; align-items: center; justify-content: center; min-height: 210px; background: #ffffff; border: 1px solid #efefef; border-radius: 8px; padding: 0.75rem; margin-bottom: 0.75rem;">
         <img src="/images/research－highlight/heart２.jpg" alt="Functional soft devices" style="max-width: 100%; max-height: 240px; width: auto; height: auto; display: block; border-radius: 4px;">
       </div>
-      <p style="margin: 0;"><strong>Functional Soft Devices.</strong> Bioinspired soft systems integrating sensing and actuation.</p>
+      <p style="margin: 0;">Soft sensor for heart deformation control.</p>
     </div>
   </div>
   <div style="padding: 0.9rem 0 0;">
