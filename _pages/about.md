@@ -20,34 +20,48 @@ I am particularly interested in bridging digital manufacturing and robotics, wit
 Research Highlights
 ======
 
-<div style="margin: 1.5rem 0; padding: 1rem; border: 1px solid #d9d9d9; border-radius: 8px;">
+<div style="margin: 1.5rem 0;">
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem;">
-    <div>
-      <img src="/images/research－highlight/print_sample.png" alt="Silicone 3D printing" style="width: 100%; height: auto; display: block; border-radius: 6px; margin-bottom: 0.6rem;">
-      <p><strong>Silicone 3D Printing.</strong> Custom silicone printing processes for soft robotic structures and functional devices.</p>
+    <div style="border: 1px solid #e3e3e3; border-radius: 10px; padding: 0.9rem; background: #fbfbfb;">
+      <div style="display: flex; align-items: center; justify-content: center; min-height: 210px; background: #ffffff; border: 1px solid #efefef; border-radius: 8px; padding: 0.75rem; margin-bottom: 0.75rem;">
+        <img src="/images/research－highlight/print_sample.png" alt="Silicone 3D printing" style="max-width: 100%; max-height: 240px; width: auto; height: auto; display: block; border-radius: 4px;">
+      </div>
+      <p style="margin: 0;"><strong>Silicone 3D Printing.</strong> Custom printing of silicone structures and devices.</p>
     </div>
-    <div>
-      <img src="/images/research－highlight/embedd_printing.png" alt="Embedded printing" style="width: 100%; height: auto; display: block; border-radius: 6px; margin-bottom: 0.6rem;">
-      <p><strong>Embedded Printing.</strong> Embedded fabrication of silicone-based components with complex geometries and stiffness gradients.</p>
+    <div style="border: 1px solid #e3e3e3; border-radius: 10px; padding: 0.9rem; background: #fbfbfb;">
+      <div style="display: flex; align-items: center; justify-content: center; min-height: 210px; background: #ffffff; border: 1px solid #efefef; border-radius: 8px; padding: 0.75rem; margin-bottom: 0.75rem;">
+        <img src="/images/research－highlight/embedd_printing.png" alt="Embedded printing" style="max-width: 100%; max-height: 240px; width: auto; height: auto; display: block; border-radius: 4px;">
+      </div>
+      <p style="margin: 0;"><strong>Embedded Printing.</strong> Embedded fabrication of complex silicone components.</p>
     </div>
-    <div>
-      <img src="/images/research－highlight/shield_sensor.png" alt="Soft sensors" style="width: 100%; height: auto; display: block; border-radius: 6px; margin-bottom: 0.6rem;">
-      <p><strong>Soft Sensors.</strong> Tactile and force sensing systems for wearable and robotic applications.</p>
+    <div style="border: 1px solid #e3e3e3; border-radius: 10px; padding: 0.9rem; background: #fbfbfb;">
+      <div style="display: flex; align-items: center; justify-content: center; min-height: 210px; background: #ffffff; border: 1px solid #efefef; border-radius: 8px; padding: 0.75rem; margin-bottom: 0.75rem;">
+        <img src="/images/research－highlight/shield_sensor.png" alt="Soft sensors" style="max-width: 100%; max-height: 240px; width: auto; height: auto; display: block; border-radius: 4px;">
+      </div>
+      <p style="margin: 0;"><strong>Soft Sensors.</strong> Tactile and force sensing for wearable and robotic systems.</p>
     </div>
-    <div>
-      <img src="/images/research－highlight/hand.png" alt="Soft robotic systems" style="width: 100%; height: auto; display: block; border-radius: 6px; margin-bottom: 0.6rem;">
-      <p><strong>Soft Robotic Systems.</strong> Compliant robotic components enabled by additive manufacturing.</p>
+    <div style="border: 1px solid #e3e3e3; border-radius: 10px; padding: 0.9rem; background: #fbfbfb;">
+      <div style="display: flex; align-items: center; justify-content: center; min-height: 210px; background: #ffffff; border: 1px solid #efefef; border-radius: 8px; padding: 0.75rem; margin-bottom: 0.75rem;">
+        <img src="/images/research－highlight/hand.png" alt="Soft robotic systems" style="max-width: 100%; max-height: 240px; width: auto; height: auto; display: block; border-radius: 4px;">
+      </div>
+      <p style="margin: 0;"><strong>Soft Robotic Systems.</strong> Additively manufactured compliant robotic components.</p>
     </div>
-    <div>
-      <img src="/images/research－highlight/insole.png" alt="Wearable devices" style="width: 100%; height: auto; display: block; border-radius: 6px; margin-bottom: 0.6rem;">
-      <p><strong>Wearable Devices.</strong> Intelligent insoles and sensing platforms for real-time pressure monitoring.</p>
+    <div style="border: 1px solid #e3e3e3; border-radius: 10px; padding: 0.9rem; background: #fbfbfb;">
+      <div style="display: flex; align-items: center; justify-content: center; min-height: 210px; background: #ffffff; border: 1px solid #efefef; border-radius: 8px; padding: 0.75rem; margin-bottom: 0.75rem;">
+        <img src="/images/research－highlight/insole.png" alt="Wearable devices" style="max-width: 100%; max-height: 240px; width: auto; height: auto; display: block; border-radius: 4px;">
+      </div>
+      <p style="margin: 0;"><strong>Wearable Devices.</strong> Intelligent insoles for real-time pressure monitoring.</p>
     </div>
-    <div>
-      <img src="/images/research－highlight/heart.jpg" alt="Functional soft devices" style="width: 100%; height: auto; display: block; border-radius: 6px; margin-bottom: 0.6rem;">
-      <p><strong>Functional Soft Devices.</strong> Bioinspired and electromechanical soft systems integrating sensing and actuation.</p>
+    <div style="border: 1px solid #e3e3e3; border-radius: 10px; padding: 0.9rem; background: #fbfbfb;">
+      <div style="display: flex; align-items: center; justify-content: center; min-height: 210px; background: #ffffff; border: 1px solid #efefef; border-radius: 8px; padding: 0.75rem; margin-bottom: 0.75rem;">
+        <img src="/images/research－highlight/heart.jpg" alt="Functional soft devices" style="max-width: 100%; max-height: 240px; width: auto; height: auto; display: block; border-radius: 4px;">
+      </div>
+      <p style="margin: 0;"><strong>Functional Soft Devices.</strong> Bioinspired soft systems integrating sensing and actuation.</p>
     </div>
   </div>
-  <p style="margin-top: 1rem;"><a href="/publications/">View related publications</a></p>
+  <div style="padding: 0.9rem 0 0;">
+    <p style="margin: 0;"><a href="/publications/">View related publications</a></p>
+    </div>
 </div>
 
 
