@@ -54,7 +54,7 @@ Research Highlights
     </div>
     <div style="border: 1px solid #e3e3e3; border-radius: 10px; padding: 0.9rem; background: #fbfbfb;">
       <div style="display: flex; align-items: center; justify-content: center; min-height: 210px; background: #ffffff; border: 1px solid #efefef; border-radius: 8px; padding: 0.75rem; margin-bottom: 0.75rem;">
-        <img src="/images/research－highlight/heart.jpg" alt="Functional soft devices" style="max-width: 100%; max-height: 240px; width: auto; height: auto; display: block; border-radius: 4px;">
+        <img src="/images/research－highlight/heart２.jpg" alt="Functional soft devices" style="max-width: 100%; max-height: 240px; width: auto; height: auto; display: block; border-radius: 4px;">
       </div>
       <p style="margin: 0;"><strong>Functional Soft Devices.</strong> Bioinspired soft systems integrating sensing and actuation.</p>
     </div>
@@ -63,5 +63,3 @@ Research Highlights
     <p style="margin: 0;"><a href="/publications/">View related publications</a></p>
     </div>
 </div>
-
-
