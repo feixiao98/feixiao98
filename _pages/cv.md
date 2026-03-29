@@ -11,18 +11,35 @@ redirect_from:
 
 Education
 ======
-* **The Chinese University of Hong Kong, Shenzhen**
-  * School of Science and Engineering
-  * PhD in Computer and Information Engineering | 2020.09 - 2026.03
-  * Thesis: *3D Printing Silicone-based Soft Robotic Systems*
-  * Advisor: Prof. Jian Zhu
-* **Harbin Institute of Technology, Shenzhen**
-  * School of Mechanical Engineering and Automation
-  * BS in Mechanical Engineering | 2016.09 - 2020.06
-  * Thesis: *Design and Modeling of Soft Octopus Robot*
-  <!-- * Advisors: Prof. Wenfu Xu and Prof. Han Yuan -->
-* **National Sun Yat-sen University**
-  * Exchange Student | 2018.09 - 2019.01
+<div style="margin-bottom: 1.5rem;">
+  <div style="display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; flex-wrap: wrap;">
+    <strong>The Chinese University of Hong Kong, Shenzhen</strong>
+    <span style="white-space: nowrap;">2020.09 - 2026.03</span>
+  </div>
+  <div>School of Science and Engineering</div>
+  <div>PhD in Computer and Information Engineering</div>
+  <div>Thesis: <em>3D Printing Silicone-based Soft Robotic Systems</em></div>
+  <div>Advisor: Prof. Jian Zhu</div>
+</div>
+
+<div style="margin-bottom: 1.5rem;">
+  <div style="display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; flex-wrap: wrap;">
+    <strong>Harbin Institute of Technology, Shenzhen</strong>
+    <span style="white-space: nowrap;">2016.09 - 2020.06</span>
+  </div>
+  <div>School of Mechanical Engineering and Automation</div>
+  <div>BS in Mechanical Engineering</div>
+  <div>Thesis: <em>Design and Modeling of Soft Octopus Robot</em></div>
+  <!-- <div>Advisors: Prof. Wenfu Xu and Prof. Han Yuan</div> -->
+</div>
+
+<div style="margin-bottom: 1.5rem;">
+  <div style="display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; flex-wrap: wrap;">
+    <strong>National Sun Yat-sen University</strong>
+    <span style="white-space: nowrap;">2018.09 - 2019.01</span>
+  </div>
+  <div>Exchange Student</div>
+</div>
 
 Publications
 ======
