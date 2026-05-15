@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD graduate from The Chinese University of Hong Kong, Shenzhen, supervised by [Prof. Jian Zhu](https://scholar.google.com/citations?user=U0lt7MIAAAAJ&hl=en). I received my BS degree from Harbin Institute of Technology, Shenzhen. My research interests lie in 3D printing and tactile sensing.
+I am a researcher at the [Computational Robotics and Manufacturing Lab (CRML)](https://guoxinfang.github.io/), the Chinese University of Hong Kong (CUHK), led by [Prof. Guoxin Fang](https://guoxinfang.github.io/Team.html). I received my PhD from The Chinese University of Hong Kong, Shenzhen, supervised by [Prof. Jian Zhu](https://scholar.google.com/citations?user=U0lt7MIAAAAJ&hl=en). Prior to that, I earned my BS degree from Harbin Institute of Technology, Shenzhen.
 
 My research focuses on:
 - Silicone 3D printing and multimaterial fabrication
